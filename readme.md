@@ -5,8 +5,10 @@ Simple http utilities.
 ## library
 
 ```ts
-```
+$ HttpStatus : Object
 
+// An object with all the status codes.
+```
 
 ## license
 
